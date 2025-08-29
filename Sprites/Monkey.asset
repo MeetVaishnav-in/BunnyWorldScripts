@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca8f8914d8fc07442a5635fc5b88646c, type: 3}
+  m_Name: Monkey
+  m_EditorClassIdentifier: 
+  animalName: Monkey
+  mainBody: {fileID: 21300000, guid: ee4e4bcd38350a24cafe87bc63a944c1, type: 3}
+  animalBodyPartsSprites:
+  - {fileID: 21300000, guid: c0d9f02652f4aaa4aa809225718fd664, type: 3}
+  - {fileID: 21300000, guid: e454624b311f70043bd7958c139ff592, type: 3}
+  - {fileID: 21300000, guid: e2962b09d0a1d5e4fb656fea1c979a0d, type: 3}
+  - {fileID: 21300000, guid: 2860eba34a5bd1e4dbfaf207925526c0, type: 3}
+  bodypartsTransform:
+  - {x: 16, y: 51, z: 0}
+  - {x: 16, y: 43, z: 0}
+  - {x: 16, y: 46, z: 0}
+  - {x: 16, y: 231, z: 0}
+  size:
+  - {x: 746.49, y: 794.8}
+  - {x: 746.49, y: 794.8}
+  - {x: 770.8, y: 825.19}
+  - {x: 725.2, y: 432}
